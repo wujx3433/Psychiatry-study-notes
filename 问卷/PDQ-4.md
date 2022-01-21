@@ -37,6 +37,6 @@ PDQ4有较高的敏感性和较低的特异性，可用于自我检查或团体筛查，为后期诊断提供参考。
 
 ## 链接
 
-https://test.lgpc.com.cn/2/sheet.asp?id=606#124
+https://test.lgpc.com.cn/2/sheet.asp?id=606
 
 网页中可能存在打赏，单纯做问卷和获取评分无需花费任何费用，请注意辨别。
