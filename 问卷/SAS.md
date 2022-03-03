@@ -1,13 +1,13 @@
-# ×Ú£¨Zung£©ÊÏSAS½¹ÂÇ×ÔÆÀÁ¿±í
+# å®—ï¼ˆZungï¼‰æ°SASç„¦è™‘è‡ªè¯„é‡è¡¨
 
-## Á¿±í¼ò½é
+## é‡è¡¨ç®€ä»‹
 
-½¹ÂÇ×ÔÆÀÁ¿±í(Self-Rating Anxiety Scale£¬SAS)ÓÉW.K.ZungÓÚ1971Äê±àÖÆ£¬
-´ÓÁ¿±í¹¹ÔìµÄÐÎÊ½µ½¾ßÌåÆÀ¶¨µÄ·½·¨£¬¶¼ÓëÒÖÓô×ÔÆÀÁ¿±í£¨SDS£©Ê®·ÖÏàËÆ£¬
-ËüÒ²ÊÇÒ»¸öº¬ÓÐ20¸öÏîÄ¿¡¢·ÖÎª4¼¶ÆÀ·ÖµÄ×ÔÆÀÁ¿±í£¬ÓÃÓÚÆÀ³ö½¹ÂÇ²¡ÈËµÄÖ÷¹Û¸ÐÊÜ¡£
+ç„¦è™‘è‡ªè¯„é‡è¡¨(Self-Rating Anxiety Scaleï¼ŒSAS)ç”±W.K.ZungäºŽ1971å¹´ç¼–åˆ¶ï¼Œ
+ä»Žé‡è¡¨æž„é€ çš„å½¢å¼åˆ°å…·ä½“è¯„å®šçš„æ–¹æ³•ï¼Œéƒ½ä¸ŽæŠ‘éƒè‡ªè¯„é‡è¡¨ï¼ˆSDSï¼‰ååˆ†ç›¸ä¼¼ï¼Œ
+å®ƒä¹Ÿæ˜¯ä¸€ä¸ªå«æœ‰20ä¸ªé¡¹ç›®ã€åˆ†ä¸º4çº§è¯„åˆ†çš„è‡ªè¯„é‡è¡¨ï¼Œç”¨äºŽè¯„å‡ºç„¦è™‘ç—…äººçš„ä¸»è§‚æ„Ÿå—ã€‚
 
-## Á´½Ó
+## é“¾æŽ¥
  
 http://www.apesk.com/xinliceshi/start_m/?1475.html
 
-ÍøÒ³ÖÐ¿ÉÄÜ´æÔÚ´òÉÍ£¬µ¥´¿×öÎÊ¾íºÍ»ñÈ¡ÆÀ·ÖÎÞÐè»¨·ÑÈÎºÎ·ÑÓÃ£¬Çë×¢Òâ±æ±ð¡£
+ç½‘é¡µä¸­å¯èƒ½å­˜åœ¨æ‰“èµï¼Œå•çº¯åšé—®å·å’ŒèŽ·å–è¯„åˆ†æ— éœ€èŠ±è´¹ä»»ä½•è´¹ç”¨ï¼Œè¯·æ³¨æ„è¾¨åˆ«ã€‚
